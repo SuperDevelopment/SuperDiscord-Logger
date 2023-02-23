@@ -1,0 +1,28 @@
+{
+  "name": "super-discord-logger",
+  "version": "0.0.1",
+  "description": "Logging extension for SuperDiscord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Index\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperDevelopment/SuperDiscord-Logger.git"
+  },
+  "keywords": [
+    "superdiscord",
+    "logger",
+    "error"
+  ],
+  "author": "Daniela Beck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuperDevelopment/SuperDiscord-Logger/issues"
+  },
+  "homepage": "https://github.com/SuperDevelopment/SuperDiscord-Logger#readme",
+  "dependencies": {
+    "pretty-error": "^4.0.0",
+    "superdiscord": "github:SuperDevelopment/SuperDiscord"
+  }
+}
